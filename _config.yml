@@ -60,12 +60,12 @@ plugins:
 author:
   name   : "Rob"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Notes | Tutorials | Tech Talk | Ramblings"
+  bio    : "Notes, Tutorials, Tech Talk & Ramblings"
   links:
-    - label: "Website"
+    - label: "Project's Website"
       icon: "fas fa-fw fa-link"
       url: "https://iambedroom.com"
-    - label: "Twitter"
+    - label: "Twitter (X)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/iambedroom"
     - label: "GitHub"
