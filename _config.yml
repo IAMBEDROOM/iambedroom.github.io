@@ -16,12 +16,11 @@
 title: IAMBEDROOM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A site containing all my notes, tutorials and general ramblings from the world of tech.
+  I am learning to code and this is my journey.
 twitter_username: IAMBEDROOM
 github_username: IAMBEDROOM
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: plum
 search: true
 
 # Build settings
@@ -58,8 +57,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Rob"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "IAMBEDROOM"
+  avatar : "/assets/images/main-avatar.png"
   bio    : "Notes, Tutorials, Tech Talk & Ramblings"
   links:
     - label: "Project's Website"
