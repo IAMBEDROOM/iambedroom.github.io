@@ -14,7 +14,7 @@ So, I have decided quite strongly and with much determination to delve into the 
 
 Well this is a place where I will document my learning path, be it through notes, tutorials or just general tech based ramblings. Whatever it is, it will be documented here. 
 
-<p class="notice--danger"> JUST A WORD OF WARNING: If you decide to follow along with any of the tutorials or notes on this site. Know that I am not an expert and am myself also learning how to do </p>
+<p class="notice--danger"> JUST A WORD OF WARNING: If you decide to follow along with any of the tutorials or notes on this site. Know that I am not an expert and am myself also learning how to do things.</p>
 
 This is the very start of the journey so please bear with me...
 
